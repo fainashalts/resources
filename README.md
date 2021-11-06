@@ -73,7 +73,7 @@ The community has created this knowledge base to help you **learn** and **grow**
 - [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [eth-hooks](https://github.com/scaffold-eth/eth-hooks) - Commonly used Ethereum hooks to create a web3 application
 - [eth-components](https://github.com/scaffold-eth/eth-components) - React library of commonly used Ethereum components to kickstart your next web3 react app
-- [useDApp](https://usedapp.io/) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable 
+- [useDApp](https://usedapp.io/) - Framework for rapid Dapp development. Simple. Robust. Extendable. Testable
 
 ## Technologies
 
@@ -87,6 +87,20 @@ The community has created this knowledge base to help you **learn** and **grow**
 ### Solana
 
 - [Solana Developer Resources](https://github.com/CristinaSolana/solana-developer-resources)
+
+### Layer 2 Rollups
+
+Layer 2 rollups provide a path to scaling Ethereum in a way that preserves the security guarantees of mainnet while increasing the transaction throughput and affordability of using Ethereum. Two main types of solutions exist, Optimistic Rollups and Zero-Knowledge Rollups. Below are some resources for learning more and getting started.
+
+- [Rollups Overview](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
+- [Optimism Developer Documentation](https://community.optimism.io/docs/)
+- [Truffle Optimism Box](https://github.com/truffle-box/optimism-box)
+- [Arbitrum Developer Documentation](https://developer.offchainlabs.com/docs/developer_quickstart)
+- [Truffle Arbitrum Box](https://github.com/truffle-box/arbitrum-box)
+- [Starknet](https://starkware.co/starknet/)
+- [Tutorial Using Starknet with Nile](https://medium.com/coinmonks/starknet-tutorial-for-beginners-using-nile-6af9c2270c15)
+- [zkSync Developer Documentation](https://zksync.io/dev/)
+
 
 ## Use Cases
 
@@ -111,7 +125,7 @@ The community has created this knowledge base to help you **learn** and **grow**
 ## Courses
 
 ### Free Courses
-- [Buildspace](https://buildspace.so) 
+- [Buildspace](https://buildspace.so)
 
   Action-oriented and community-driven course platform. Learn how to build a simple dApp or mint your own NFTs in just hours. (More courses later)
 
@@ -122,10 +136,10 @@ The community has created this knowledge base to help you **learn** and **grow**
 - [Questbook](https://questbook.notion.site/Questbook-Learn-Web3-a5f4be8b107f4647a91fe84e6aa7e722)
 
   Questbook is a Decentralized University where learning web3 is always free
-  
+
  - [FreeCodeCamp's Solidity Tutorial](https://www.youtube.com/embed/M576WGiDBdQ)
 
-   Comprehensive introduction to main Solidity concepts (+blockchain/smart contracts) everyone needs to start writing their own ERC720 and ERC20 tokens, dApps, and more.  
+   Comprehensive introduction to main Solidity concepts (+blockchain/smart contracts) everyone needs to start writing their own ERC720 and ERC20 tokens, dApps, and more.
 
 ### Paid Courses
 
